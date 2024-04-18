@@ -1,0 +1,82 @@
+html {
+    background-color: rgb(203, 163, 203);
+}
+
+nav {
+    background-color: rgb(72,50,72);
+    display: block;
+    font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+    p {
+        display: inline-block;
+        text-align: center;
+        padding-right: 10px;
+        color: lavenderblush;
+        font-size: larger;
+    }
+    section {
+        text-align:center;
+        display: inline-block;
+        text-indent: 950px;
+        a {
+        color: lavenderblush;
+    }   
+}
+}
+
+body {
+    .body1{
+        background-color: rgb(124, 65, 124);
+        margin-top: 0px;
+        margin-left: 250px;
+        margin-right: 350px;
+        text-align: left;
+        font-size: 20px;
+        padding: 25px;
+        font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+        }
+    .body2{
+        background-color: rgb(124, 65, 124);
+        margin-top: -25px;
+        margin-left: 250px;
+        margin-right: 280px;
+        text-align: center;
+        font-size: 35px;
+        padding: 100px;
+        font-family: cursive;
+        letter-spacing: -1.9px;
+        }
+    section {
+    
+        h1 {
+            color: lavenderblush;
+            font-size: 25px;
+        }
+        p{
+            color: lavenderblush;
+        }
+        img {
+            width: 250px;
+            height: 300px;
+            text-align: center;
+            float:right;
+            padding: 20px;
+           position: relative;
+           right: -395px;
+           background-color: rgb(124, 65, 124);
+            margin-top: -195px;
+            margin-left: 850px;
+            margin-right: 300px;
+    
+        }
+    }
+}
+footer {
+    background-color: rgb(72,50,72);
+    justify-content: center;
+    text-align: center;
+    a{
+        display: inline-block;
+        padding: 15px;
+        width: 60px;
+    }
+}
