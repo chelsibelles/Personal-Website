@@ -1,0 +1,90 @@
+html {
+    background-color: rgb(203, 163, 203);
+}
+
+nav {
+    background-color: rgb(72,50,72);
+    display: block;
+    font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+    p {
+        display: inline-block;
+        text-align: center;
+        padding-right: 10px;
+        color: lavenderblush;
+        font-size: larger;
+    }
+    section {
+        text-align:center;
+        display: inline-block;
+        text-indent: 950px;
+        a {
+        color: lavenderblush;
+    }   
+}
+}
+body { 
+    .h1about {
+        background-color: rgb(124,65,124);
+        display: block;
+        color: lavenderblush;
+        font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+        font-size: 18px;
+        text-align: left;
+        margin-top: 0px;
+        margin-left: 205px;
+        margin-right: 205px;
+        padding: 25px;  
+    }
+    .h2cycling {
+        background-color: rgb(124,65,124);
+        display: block;
+        color: lavenderblush;
+        font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+        text-align: left;
+        margin-top: -20px;
+        margin-left: 205px;
+        margin-right: 205px;
+        padding: 25px; 
+        img {
+        width: 200px;
+        height: 150px;
+        float: right;
+        margin-top: -305px; 
+        display: block; 
+    }
+}
+    h2 {
+        padding: 13px;
+        text-align: left;
+        font-size: 40px;
+    }
+   
+    .h2embroidery {
+        background-color: rgb(124,65,124);
+        display: block;
+        color: lavenderblush;
+        font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+        text-align: left;
+        margin-top: -20px;
+        margin-left: 205px;
+        margin-right: 205px;
+        padding: 25px; 
+        img {
+            width: 200px;
+            height: 150px;
+            float: right;
+            margin-top: -325px;  
+            display: block;
+        } 
+    }
+}
+footer {
+    background-color: rgb(72,50,72);
+    justify-content: center;
+    text-align: center;
+    a{
+        display: inline-block;
+        padding: 15px;
+        width: 60px;
+    }
+}
