@@ -1,0 +1,139 @@
+html {
+    background-color: rgb(203, 163, 203);
+}
+
+nav {
+    background-color: rgb(72,50,72);
+    display: block;
+    font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+    p {
+        display: inline-block;
+        text-align: center;
+        padding-right: 10px;
+        color: lavenderblush;
+        font-size: larger;
+    }
+    section {
+        text-align:center;
+        display: inline-block;
+        text-indent: 950px;
+        a {
+        color: lavenderblush;
+    }   
+}
+}
+
+body{
+    .background{
+        background-color: rgb(124,65, 124);
+        margin-top: 0px;
+        margin-left: 200px;
+        margin-right: 200px;
+        .portfolioh1 {
+        hr{
+            color: lavenderblush;
+        }
+    }
+    }
+    .block02 {
+        background-color: lavenderblush;
+        display: block;
+        margin-left: 70px;
+        margin-right: 70px;
+        margin-bottom: 30px;
+        font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+        text-align: justify;
+        color: rgb(20,10,22);
+        padding: 10px;
+        h2{
+            padding-top: -40px;
+            padding-bottom: -40px;
+        }
+        p{
+            font-size: 14px;
+        }
+        img{
+            width: 230px;
+            height: 170px;
+            float: right;
+            margin-top: -185px;
+        }
+        hr {
+            color: rgb(20,10,22)
+        }
+    }
+    .block05{
+        background-color: lavenderblush;
+        display: block;
+        margin-left: 70px;
+        margin-right: 70px;
+        margin-bottom: 30px;
+        font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+        text-align: justify;
+        color: rgb(20,10,22);
+        padding: 10px;
+        h2{
+            padding-top: -40px;
+            padding-bottom: -40px;
+        }
+        p{
+            font-size: 14px;
+        }
+        img{
+            width: 230px;
+            height: 170px;
+            float: right;
+            margin-top: -240px;
+        }
+        hr {
+            color: rgb(20,10,22)
+        }
+    }
+    .block06{
+        background-color: lavenderblush;
+        display: block;
+        margin-left: 70px;
+        margin-right: 70px;
+        margin-bottom: 0px;
+        font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+        text-align: justify;
+        color: rgb(20,10,22);
+        padding: 10px;
+        h2{
+            padding-top: -40px;
+            padding-bottom: -40px;
+        }
+        p{
+            font-size: 14px;
+        }
+        img{
+            width: 230px;
+            height: 170px;
+            float: right;
+            margin-top: -225px;
+        }
+        hr {
+            color: rgb(20,10,22)
+        }
+    }
+    h1 {
+        background-color: rgb(120, 91, 120);
+        color:lavenderblush;
+        font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+        font-size: 30px;
+        text-indent: 10px;
+        display: block;
+        margin-right: 600px;
+        margin-top: 0px;
+    }
+}
+footer {
+    background-color: rgb(72,50,72);
+    justify-content: center;
+    text-align: center;
+    a{
+        display: inline-block;
+        padding: 15px;
+        width: 60px;
+    }
+}
